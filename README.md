@@ -3,7 +3,6 @@ CNN de classificació d'imatges DE-MRI (normals o patològiques) que cobreixen e
 
   **_dataset_:** carpeta on trobem la base de dades pública del challenge EMIDEC (Evaluation of Myocardial Infarction from Delayed-Enhancement Cardiac MRI).
   https://emidec.com/
-  
        **_entrenament_:** subcarpeta que conté les imatges (.nii) etiquetades. Trobem una carpeta amb les imatges dels pacients sans ("_normal_") i una carpeta          amb els pacients que han patit infart de miocardi ("_patologic_").
        **_test_:** subcarpeta que conté les imatges (.nii) no etiquetades per fer les prediccions.
        
