@@ -1,4 +1,4 @@
-# DE-MRI_Classificacio_CNN
+# DE-MRI_Classificació_CNN
 CNN de classificació d'imatges DE-MRI (normals o patològiques) que cobreixen el ventricle esquerre en patològiques o normals. 
 
 **dataset:** carpeta on trobem la base de dades pública del challenge EMIDEC (Evaluation of Myocardial Infarction from Delayed-Enhancement Cardiac MRI).
