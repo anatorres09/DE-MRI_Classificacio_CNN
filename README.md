@@ -13,6 +13,6 @@ Model de classificació CNN entrenat amb imatges cardíaques DE-MRI que cobreixe
   
 **2. Preprocessat.ipynb:** codi per convertir les imatges 3D (.nii) a 2D (.png) i guardar-les al Drive. 
   
-**3. Entrenament_final_CNN.ipynb:** codi per entrenar el model CNN amb les imatges del dataset i avaluació del rendiment del model. 
+**3. Entrenament_CNN.ipynb:** codi per entrenar el model CNN amb les imatges del dataset i avaluació del rendiment del model. 
   
-**4. Model2_CNN.ipynb:** codi per fer les prediccions d'imatges no etiquetades a partir del model entrenat. Avaluació dels exàmens DE-MRI de cada pacient segons els resultats obtinguts després de la classificació de les imatges. 
+**4. Model_CNN.ipynb:** codi per fer les prediccions d'imatges no etiquetades a partir del model entrenat. Avaluació dels exàmens DE-MRI de cada pacient segons els resultats obtinguts després de la classificació de les imatges. 
